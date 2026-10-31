@@ -12,9 +12,9 @@ function App() {
       <Nav className='' />
 
       <Routes>
-        <Route path='/' element={<Home />} />
+        <Route path='/Tenth-pixel' element={<Home />} />
         <Route path='/contact' element={<Contact />} />
-        <Route path='/products' element={<Products />} />
+        <Route path='/product' element={<Products />} />
       </Routes>
     </div>
   )
